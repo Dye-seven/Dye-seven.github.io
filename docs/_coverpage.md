@@ -2,7 +2,7 @@
 
 ![logo](cover.jpg)
 
-# 嘿！ 看你妈呢<small>3.5</small>
+# 等待靓仔归来那一刻<small>3.5</small>
 
 > A magical documentation site generator.
 
